@@ -3,7 +3,7 @@
 👋 Hello! I'm a **Full Stack Engineer** with over 15 years of experience in **web development**, including expertise in **.NET Core**, **React.js**, **Node.js**, and **Azure**. I specialize in creating scalable, secure, and efficient enterprise solutions across various industries such as **finance**, **HR tech**, **oil & gas**, and **enterprise SaaS**.
 
 ## 📞 **Contact Information**
-- 📱 **Phone**: +92 3005744441  - (00971569420950)
+- 📱 **Phone**: +92 3005744441  - (+971 569 420 950)
 - 🌍 **Location**: Islamabad, Pakistan  |  Dubai ,UAE
 - ✉️ **Email**: [dev.xulfi@gmail.com](mailto:dev.xulfi@gmail.com)
 
